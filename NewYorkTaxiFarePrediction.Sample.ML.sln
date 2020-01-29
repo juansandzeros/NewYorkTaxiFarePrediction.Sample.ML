@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewYorkTaxiFarePrediction.Sample.ML", "NewYorkTaxiFarePrediction.Sample.ML\NewYorkTaxiFarePrediction.Sample.ML.csproj", "{1030EA12-8977-43D5-9000-B12FC26ED792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1030EA12-8977-43D5-9000-B12FC26ED792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1030EA12-8977-43D5-9000-B12FC26ED792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1030EA12-8977-43D5-9000-B12FC26ED792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1030EA12-8977-43D5-9000-B12FC26ED792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBB4C2FE-03FA-4A62-9208-C1A5BA2A5C38}
+	EndGlobalSection
+EndGlobal
